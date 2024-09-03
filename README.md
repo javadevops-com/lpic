@@ -1,5 +1,6 @@
 # LPIC Notes Repository
 ***This Text is AI Generated***
+
 Welcome to my personal LPIC Notes Repository! This repository contains my study notes and resources for the **Linux Professional Institute Certification (LPIC)**. It is designed to help you understand key concepts, commands, and practices needed for the LPIC exams.
 
 ## Table of Contents
@@ -65,4 +66,4 @@ This repository is licensed under the MIT License. Feel free to use and modify t
 Thank you for visiting my LPIC Notes Repository! Happy studying!
 
 
-Current Date and Time: Tue Sep  3 05:29:39 AM PDT 2024
+Current Date and Time: Tue Sep  3 05:29:54 AM PDT 2024
