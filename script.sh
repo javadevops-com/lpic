@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /root/project/lpic
 echo "Current Date and Time: $(date)" >> README.md
 git add .
 git commit -m "Automatic commit"
